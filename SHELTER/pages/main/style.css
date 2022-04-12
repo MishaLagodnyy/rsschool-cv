@@ -1,0 +1,68 @@
+body{
+    font-family: Georgia, Arial ;
+    
+    
+}
+header{
+    
+    
+    height: 908px;
+    background: url(noise_lines_transparent@2X.png), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, #211F20;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+footer{
+    background: url(noise_lines_transparent@2X.png), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, #211F20;
+    position: absolute;
+    height: 350px;
+    top: 3446px;
+
+}
+.header{
+    display: inline-flex;
+    max-width: 1200px;
+}
+.logo{
+    color: rgba(241, 205, 179, 1);
+}
+.nav{
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+    
+    
+}
+.nav>li{
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 70px;
+}
+.nav>li>a{
+    color: rgba(250, 250, 250, 1);
+    text-decoration: none;
+}
+.startScreen{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.notOnly{
+    
+    height: 588px;
+    left: 0%;
+    right: 0%;
+    top: 908px;
+}
+.ourFriend{
+    height: 877px;
+    top: 1496px;
+}
+.help{
+    height: 611px;
+    top: 2373px;
+}
+.inAddition{
+    height: 462px;
+    top: 2984px;
+}
