@@ -48,9 +48,21 @@ footer{
     
 }
 .notOnly{
-    position: absolute;
+    
     height: 588px;
     left: 0%;
     right: 0%;
     top: 908px;
+}
+.ourFriend{
+    height: 877px;
+    top: 1496px;
+}
+.help{
+    height: 611px;
+    top: 2373px;
+}
+.inAddition{
+    height: 462px;
+    top: 2984px;
 }
