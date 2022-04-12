@@ -1,4 +1,43 @@
 body{
     font-family: Georgia, Arial ;
+    max-width: 1280px;
     
+}
+header{
+    
+    position: absolute;
+    height: 908px;
+}
+.header{
+    display: inline-flex;
+    max-width: 1200px;
+}
+.logo{
+    color: rgba(241, 205, 179, 1);
+}
+.nav{
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+    
+}
+.nav>li{
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 70px;
+}
+.nav>li>a{
+    text-decoration: none;
+}
+.startScreen{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.notOnly{
+    position: absolute;
+    height: 588px;
+    left: 0%;
+    right: 0%;
+    top: 908px;
 }
