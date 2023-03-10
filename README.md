@@ -1,1 +1,1 @@
-# https://MishaLagodnyy.github.io/rsschool-cv/cv
+# https://MishaLagodnyy.github.io/rsschool-cv/
